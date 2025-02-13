@@ -30,13 +30,15 @@ It was built using **Power Query for data cleaning** and **Power BI for visualiz
 🔹 More interactive filters and drill-through features can be added  
 
 ## 📷 Dashboard Preview
+![Dashboard Preview](Sales Insight February.png)
+
   
 
 ## 📂 Files Included
-- `Sales_Insight_Dashboard.pbix` - Power BI report file  
-- `Cleaned_Sales_Data.xlsx` - Sample cleaned dataset  
- 
+- [Download Sales Insight](February Sales Insight.pbix)
 
----
+
+- [Download Cleaned Data](Cleaned Data.xlsx)
+
 
 This dashboard serves as a **starting point** for deeper business insights, and future modifications depend on stakeholder instructions.  
