@@ -1,7 +1,7 @@
 
 
 ## 📝 Project Overview
-This **Sales Insight Dashboard** provides an interactive view of **Parfum.AE's sales performance for February**.  
+This **Sales Insight Dashboard** provides an interactive view of **Sales performance for the month of February**.  
 It was built using **Power Query for data cleaning** and **Power BI for visualization**, helping to analyze key sales trends.
 
 ## 🛠️ Tools Used
